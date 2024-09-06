@@ -53,7 +53,7 @@ MERN Stack Group Expense Splitting Application
 <br/>
 <p>This is a side project I&#39;ve been working on. A full stack expense spliting app - splitwise clone made using the MERN stack (MongoDB, Express, React &amp; Nodejs), specially designed to split group expense between friends, but can be used for almost any type of business need. With this application, you can add your expense details and get an whole expense analytics feature - Group Balance, Monthly amount spend, Catagory wise expense spending graph etc... Jump right off the <a href="https://splitit89.vercel.app/">Live App</a> and start adding your expenses or download the entire <a href="https://github.com/jangirsamarth/split-it/">Source code</a> and run it on your server. This project is something I&#39;ve been working on in my free time so I cannot be sure that everything will work out correctly. But I&#39;ll appreciate you if can report any issue.</p>
 <br/>
-<center><img src="public\static\icons\screenshots\combined-screenshot.png" alt="Features" width={'80%'}/></center>
+<center><img src="https://github.com/jangirsamarth/splitit-client/blob/main/public/static/icons/screenshots/combined-screenshot.png" alt="Features" width={'80%'}/></center>
 <br/>
 <h2 id="key-features">Key Features</h2>
 <br/>
@@ -146,10 +146,7 @@ npm <span class="hljs-keyword">install</span> <br/><br/>
 <p>I intend to keep adding more features to this application, so if you like it, please give it a star, that will encourage me to 
 to keep improving the project.</p>
 <br/>
-<h2 id="license">License</h2>
-<br/>
-<br/>
-<br/>
+
 </Container>
  </>
   )
