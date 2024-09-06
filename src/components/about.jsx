@@ -30,7 +30,7 @@ const About = () => {
   </p>
 </div>
 <br/>
-<center><img src="public\static\icons\screenshots\dashboard-main-transparent.png" alt="split it" width={'80%'}/></center>
+<center><img src="https://github.com/jangirsamarth/splitit-client/blob/main/public/static/icons/screenshots/dashboard-main-transparent.png" alt="split it" width={'80%'}/></center>
 <Typography variant="h5">
 MERN Stack Group Expense Splitting Application
 </Typography>
