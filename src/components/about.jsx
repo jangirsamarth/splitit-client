@@ -13,10 +13,10 @@ const About = () => {
         }}>
 <div align="center">
   <a href="/">
-    <img src="https://github.com/jangirsamarth/splitit-client/blob/main/public/static/logo.png" alt="Logo" width="80" height="80"/>
+    <img src="https://github.com/jangirsamarth/splitit-client/blob/main/public/static/logo.png?raw=true" alt="Logo" width="80" height="80"/>
   </a>
 
-  <h2 align="center">SplitApp</h2>
+  <h2 align="center">SplitIt</h2>
 
   <p align="center">
     Build with the MERN stack (MongoDB, Express, React and NodeJS).
@@ -30,7 +30,7 @@ const About = () => {
   </p>
 </div>
 <br/>
-<center><img src="https://github.com/jangirsamarth/split-it/blob/master/server/Screenshots/dashboard-main-transparent.png" alt="split it" width={'80%'}/></center>
+<center><img src="public\static\icons\screenshots\dashboard-main-transparent.png" alt="split it" width={'80%'}/></center>
 <Typography variant="h5">
 MERN Stack Group Expense Splitting Application
 </Typography>
@@ -51,9 +51,9 @@ MERN Stack Group Expense Splitting Application
 <br/>
 <h2 id="introduction">Introduction</h2>
 <br/>
-<p>This is a side project I&#39;ve been working on. A full stack expense spliting app - splitwise clone made using the MERN stack (MongoDB, Express, React &amp; Nodejs), specially designed to split group expense between friends, but can be used for almost any type of business need. With this application, you can add your expense details and get an whole expense analytics feature - Group Balance, Monthly amount spend, Catagory wise expense spending graph etc... Jump right off the <a href="https://split-app00.herokuapp.com/">Live App</a> and start adding your expenses or download the entire <a href="https://github.com/tuzup/SplitApp/">Source code</a> and run it on your server. This project is something I&#39;ve been working on in my free time so I cannot be sure that everything will work out correctly. But I&#39;ll appreciate you if can report any issue.</p>
+<p>This is a side project I&#39;ve been working on. A full stack expense spliting app - splitwise clone made using the MERN stack (MongoDB, Express, React &amp; Nodejs), specially designed to split group expense between friends, but can be used for almost any type of business need. With this application, you can add your expense details and get an whole expense analytics feature - Group Balance, Monthly amount spend, Catagory wise expense spending graph etc... Jump right off the <a href="https://splitit89.vercel.app/">Live App</a> and start adding your expenses or download the entire <a href="https://github.com/jangirsamarth/split-it/">Source code</a> and run it on your server. This project is something I&#39;ve been working on in my free time so I cannot be sure that everything will work out correctly. But I&#39;ll appreciate you if can report any issue.</p>
 <br/>
-<center><img src="https://github.com/jangirsamarth/split-it/blob/master/server/Screenshots/combined-screenshot.png" alt="Features" width={'80%'}/></center>
+<center><img src="public\static\icons\screenshots\combined-screenshot.png" alt="Features" width={'80%'}/></center>
 <br/>
 <h2 id="key-features">Key Features</h2>
 <br/>
