@@ -27,7 +27,7 @@ export default function PageUserDeleted() {
           </Typography>
 
           <Typography sx={{ color: 'text.secondary' }}>
-            Thank you for using SplitApp! <br/>
+            Thank you for using Split-It! <br/>
           </Typography>
           </Box>
           <Box
